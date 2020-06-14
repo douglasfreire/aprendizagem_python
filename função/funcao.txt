@@ -1,0 +1,11 @@
+O que é uma função?
+    Um miniprograma dentro de um sistema. Uma função é um objeto
+    e um objeto pode se comportar como uma função.
+
+Dois tipo de parametros:
+    posicional
+    nomeado
+
+Parametros
+    *args -> Esse irá gerar uma tupla
+    **kwargs -> Esse irá gerar um dicionário
